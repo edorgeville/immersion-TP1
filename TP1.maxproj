@@ -2,8 +2,8 @@
 	"name" : "TP1",
 	"version" : 1,
 	"creationdate" : 3505126247,
-	"modificationdate" : 3505224404,
-	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
+	"modificationdate" : 3505244860,
+	"viewrect" : [ 17.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -31,6 +31,11 @@
 			}
 ,
 			"test_video.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"TP1.video_plane.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -80,6 +85,21 @@
 ,
 			"squish.mov" : 			{
 				"kind" : "moviefile",
+				"local" : 1
+			}
+,
+			"frame.16.9.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"frame.cinema.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"frame.instagram.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1
 			}
 
