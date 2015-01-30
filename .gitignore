@@ -1,2 +1,3 @@
-media/*.*
-!media/*.jpg
+*.mov
+*.wav
+*.zip
