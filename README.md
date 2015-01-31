@@ -8,8 +8,8 @@
 
 ### First setup
 You'll have to download video and audio files from an external place. It's at least 6Gb, so make sure you got some space available ! (at least 14Gb, cause you'll have to unzip it)  
-Download :  
-(uploading...)
+Download :
+[MEGA, 100MB 7zip parts](https://mega.co.nz/#F!P9okWQbC!z8p3qXR2bjp53VubDoErtQ)
 
 ### Running the stuff
 Open the ```TP1.maxpat``` file. Make sure your sound output is setted right !  
