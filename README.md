@@ -16,4 +16,4 @@ Open the ```TP1.maxpat``` file. Make sure your sound output is setted right !
 Click the "fullscreen" button to go fullHD!!1
 
 ### Authors
-Art direction, video footage and sound design by [Peter Marier](http://peterartvisuel.com/), visual programming by [Erwan d'Orgeville](http://erwandorgeville.com)
+Art direction, video footage and sound design by [PETER](http://peterartvisuel.com/), visual programming by [Erwan d'Orgeville](http://erwandorgeville.com)
